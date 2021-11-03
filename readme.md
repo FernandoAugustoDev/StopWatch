@@ -4,6 +4,8 @@
 <br>
 
 <p>⏱ Stopwatch is an application to measure the amount of time between your activities .</p>
+
+<a href="https://fernandoaugustodev.github.io/StopWatch/" target="_blank">Click to see more</a>
 <br>
 <hr>
 
